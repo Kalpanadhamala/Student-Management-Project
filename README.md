@@ -12,10 +12,9 @@ This project allows you to **Add, Edit, Update, and Delete** student records eas
 - View all students in a table  
 - Form validation
 
-# Features
+# Tech Stack
 
-- Add new students  
-- Update student information  
-- Delete student records  
-- View all students in a table  
-- Form validation  
+- **Python**
+- **Django**
+- **SQLite**
+- **HTML Templates** 
